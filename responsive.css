@@ -1,0 +1,575 @@
+@media (max-width: 1400px) {
+  .top-sti-left h4 {
+    color: #666;
+    font-size: 22px;
+    margin-top: 40px;
+    font-weight: 500;
+  }
+  .look-inside-right::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 120%;
+    background-color: rgba(255, 255, 255, 0.78);
+    z-index: -1;
+  }
+  .more-place-inner-content h3 {
+    font-size: 24px;
+    font-weight: 400;
+    box-sizing: border-box;
+    padding: 0 50px;
+  }
+}
+@media (max-width: 1268px) {
+  .top-sti-right p {
+    color: #666666;
+    font-size: 17px;
+    margin-bottom: 25px;
+    text-align: justify;
+  }
+  .look-inside-right::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 115%;
+    background-color: rgba(255, 255, 255, 0.78);
+    z-index: -1;
+  }
+}
+@media (max-width: 1200px) {
+  .explore-content p {
+    font-size: 18px;
+    line-height: 1.4em;
+    font-weight: 500;
+    color: #fff;
+  }
+  .top-sti-left h1 {
+    font-size: 48px;
+    font-weight: bold;
+    color: #333;
+  }
+  .look-inside-right::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 110%;
+    background-color: rgba(255, 255, 255, 0.78);
+    z-index: -1;
+  }
+  .more-place-inner-content h3 {
+    font-size: 18px;
+    font-weight: 400;
+    box-sizing: border-box;
+    padding: 0 50px;
+  }
+}
+@media (max-width: 1068px) {
+  .header-right ul li a {
+    padding: 0 12px;
+    font-size: 14px;
+  }
+  .explore-content h1 {
+    font-size: 60px;
+    font-weight: 600;
+    margin-bottom: 50px;
+    color: #fff;
+  }
+  .discover-left h2 {
+    font-size: 28px;
+    color: #666;
+    font-weight: 500;
+  }
+  .discover-right h1 {
+    font-size: 40px;
+    font-weight: 500;
+    color: #333;
+    margin-bottom: 40px;
+  }
+  .look-inside-right span {
+    display: inline-block;
+    color: #666;
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  .look-inside-right p {
+    color: #666;
+    font-size: 16px;
+    text-align: justify;
+    line-height: 1.38em;
+    margin-top: 2.5rem;
+  }
+  .look-inside-right::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 125%;
+    background-color: rgba(255, 255, 255, 0.78);
+    z-index: -1;
+  }
+}
+@media (max-width: 992px) {
+  .explore-content p {
+    font-size: 15px;
+    line-height: 1.4em;
+    font-weight: 500;
+    color: #fff;
+  }
+  .explore-content h1 {
+    font-size: 48px;
+    font-weight: 600;
+    margin-bottom: 50px;
+    color: #fff;
+  }
+  .top-sti-left h1 {
+    font-size: 40px;
+    font-weight: bold;
+    color: #333;
+  }
+  .top-sti-right p {
+    color: #666666;
+    font-size: 14px;
+    margin-bottom: 25px;
+    text-align: justify;
+    line-height: 1.4;
+  }
+  .top-sti-left {
+    width: 100%;
+  }
+  .top-sti-right {
+    width: 100%;
+  }
+  .look-inside-right h1 {
+    font-size: 50px;
+    font-weight: bold;
+    color: #333333;
+  }
+  .look-inside {
+    background: url(./img//travel-landscape-03.jpg) no-repeat top center;
+    background-size: auto;
+    background-size: cover;
+    min-height: 720px;
+    margin-top: 120px;
+    margin-bottom: 50px;
+  }
+
+  .look-inside-right::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 109%;
+    background-color: rgba(255, 255, 255, 0.78);
+    z-index: -1;
+  }
+  .exclusive-offer-content h1 {
+    color: #fff;
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 35px;
+  }
+  .exclusive-offer {
+    background: url(./img//travel-landscape-172.jpg) no-repeat center;
+    background-size: auto;
+    background-size: cover;
+    min-height: 580px;
+  }
+  .footer-left p {
+    color: #474747;
+    margin-top: 22px;
+    font-size: 14px;
+
+}
+@media (max-width: 868px) {
+  .header-left img {
+    width: 50px;
+    margin-top: 5px;
+  }
+  .header-right ul li a {
+    padding: 0 10px;
+    font-size: 12px;
+  }
+  .video-tour-content p {
+    color: #333;
+    font-size: 17px;
+    font-weight: 500;
+  }
+  .look-inside-right h1 {
+    font-size: 45px;
+    font-weight: bold;
+    color: #333333;
+  }
+  .exclusive-offer-content h1 {
+    color: #fff;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 35px;
+  }
+  .our-guides-title h4 {
+    font-size: 19px;
+    font-weight: 500;
+    line-height: 1.5;
+  }
+  .waiting-title h1 {
+    font-size: 40px;
+    font-weight: bold;
+    color: #000000;
+  }
+}
+@media (max-width: 768px) {
+  .header-right ul li a {
+    padding: 0 8px;
+    font-size: 10px;
+  }
+  .header-left img {
+    width: 40px;
+    margin-top: 5px;
+  }
+  .explore {
+    background: url(./img//travel-landscape-01-1.jpg) no-repeat center;
+    background-size: auto;
+    background-size: cover;
+    min-height: 650px;
+    margin-top: 80px;
+  }
+  .explore-content p {
+    font-size: 12px;
+    line-height: 1.4em;
+    font-weight: 500;
+    color: #fff;
+  }
+  .discover-left {
+    width: 100%;
+  }
+  .discover-right {
+    width: 100%;
+  }
+  .video-tour-inner-content span {
+    position: absolute;
+    top: 30%;
+    left: 45%;
+    right: 50%;
+    display: inline-block;
+    font-size: 80px;
+  }
+  .look-inside-right h1 {
+    font-size: 38px;
+    font-weight: bold;
+    color: #333333;
+  }
+  .look-inside-right::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 105%;
+    background-color: rgba(255, 255, 255, 0.78);
+    z-index: -1;
+  }
+  .more-place-inner-content {
+    width: 48%;
+  }
+  .exclusive-offer-content h4 {
+    color: #fff;
+    font-size: 20px;
+  }
+  .our-guides-title h4 {
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 1.5;
+  }
+  .footer-right ul li a {
+    display: inline-block;
+    padding: 0 10px;
+    color: #896433;
+    font-size: 18px;
+}
+}
+@media (max-width: 696px) {
+  .explore-content h1 {
+    font-size: 35px;
+    font-weight: 600;
+    margin-bottom: 35px;
+    color: #fff;
+  }
+  .explore-content-outdoor a {
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    border: 4px solid #fff;
+    padding: 15px 40px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 40px;
+  }
+  .explore-content p {
+    font-size: 10px;
+    line-height: 1.7em;
+    font-weight: 500;
+    color: #fff;
+  }
+  .video-tour-content p {
+    color: #333;
+    font-size: 13px;
+    font-weight: 500;
+  }
+  .look-inside-right h1 {
+    font-size: 34px;
+    font-weight: bold;
+    color: #333333;
+  }
+  .look-inside-right h1 {
+    font-size: 28px;
+    font-weight: bold;
+    color: #333333;
+  }
+  .look-inside-right a {
+    display: inline-block;
+    text-decoration: none;
+    color: #000;
+    border: 3px solid #000;
+    padding: 15px 30px;
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 2rem;
+  }
+  .exclusive-offer-content h1 {
+    color: #fff;
+    font-size: 35px;
+    font-weight: bold;
+    margin-bottom: 35px;
+  }
+  .exclusive-offer-content h2 {
+    color: #fff;
+    font-size: 28px;
+    margin-bottom: 35px;
+  }
+  .exclusive-offer-content h4 {
+    color: #fff;
+    font-size: 17px;
+    line-height: 1.5;
+  }
+  .waiting-title h1 {
+    font-size: 30px;
+    font-weight: bold;
+    color: #000000;
+    margin-bottom: 30px;
+  }
+}
+@media (max-width: 606px) {
+  .look-inside-right span {
+    display: inline-block;
+    color: #666;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .look-inside-right p {
+    color: #666;
+    font-size: 13px;
+    text-align: justify;
+    line-height: 1.38em;
+    margin-top: 2.2rem;
+  }
+}
+@media (max-width: 576px) {
+  .header-left {
+    width: 100%;
+    text-align: center;
+  }
+  .header-right {
+    width: 100%;
+  }
+  .header-right ul {
+    list-style: none;
+    padding-left: 0;
+    text-align: center;
+  }
+  .video-tour-content h1 {
+    font-size: 35px;
+    font-weight: 500;
+    color: #333333;
+    margin-bottom: 40px;
+  }
+  .look-inside-right h1 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #333333;
+  }
+
+  .look-inside {
+    background: url(./img//travel-landscape-03.jpg) no-repeat top center;
+    background-size: auto;
+    background-size: auto;
+    background-size: cover;
+    min-height: 590px;
+    margin-top: 120px;
+    margin-bottom: 50px;
+  }
+  .look-inside-right::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 101%;
+    background-color: rgba(255, 255, 255, 0.78);
+    z-index: -1;
+  }
+  .exclusive-offer-content h1 {
+    color: #fff;
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 35px;
+  }
+  .exclusive-offer {
+    background: url(./img//travel-landscape-172.jpg) no-repeat center;
+    background-size: auto;
+    background-size: auto;
+    background-size: cover;
+    min-height: 480px;
+  }
+  .our-guides-inner-team {
+    width: 100%;
+    margin-right: 2%;
+    margin-bottom: 20px;
+  }
+  .footer-left {
+    width: 100%;
+    text-align: center;
+}
+.footer-right {
+    width: 100%;
+}
+.footer-right ul{
+    text-align: center;     
+}
+}
+@media (max-width: 516px) {
+  .explore-content h1 {
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 35px;
+    color: #fff;
+  }
+  .explore-content p {
+    font-size: 9px;
+    line-height: 1.7em;
+    font-weight: 500;
+    color: #fff;
+  }
+  .video-tour-content p {
+    color: #333;
+    font-size: 10px;
+    font-weight: 500;
+  }
+  .look-inside-right a {
+    display: inline-block;
+    text-decoration: none;
+    color: #000;
+    border: 3px solid #000;
+    padding: 13px 25px;
+    font-size: 10px;
+    font-weight: bold;
+    margin-top: 2rem;
+  }
+  .more-place-inner-content h3 {
+    font-size: 13px;
+    font-weight: 400;
+    box-sizing: border-box;
+    padding: 0 50px;
+  }
+  .exclusive-offer-content h1 {
+    color: #fff;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 35px;
+  }
+  .exclusive-offer-content h2 {
+    color: #fff;
+    font-size: 24px;
+    margin-bottom: 35px;
+  }
+  .waiting-title h1 {
+    font-size: 25px;
+    font-weight: bold;
+    color: #000000;
+    margin-bottom: 30px;
+  }
+  .waiting-title a {
+    text-decoration: none;
+    display: inline-block;
+    background: red;
+    color: #fff;
+    padding: 15px 30px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 25px;
+    margin-top: -20px;
+  }
+}
+@media (max-width: 456px) {
+  .video-tour-inner-content span {
+    position: absolute;
+    top: 30%;
+    left: 42%;
+    right: 50%;
+    display: inline-block;
+    font-size: 60px;
+  }
+  .look-inside-right span {
+    display: inline-block;
+    color: #666;
+    font-size: 12px;
+    line-height: 1.5;
+  }
+  .look-inside-right p {
+    color: #666;
+    font-size: 11px;
+    text-align: justify;
+    line-height: 1.7em;
+    margin-top: 2rem;
+  }
+  .more-place-title h1 {
+    font-size: 45px;
+    font-weight: bold;
+    color: #333333;
+  }
+}
+@media (max-width: 426px) {
+  .header-right ul li a {
+    padding: 0 5px;
+    font-size: 9px;
+  }
+  .explore-content {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    padding: 50px;
+    width: 70%;
+  }
+  .look-inside-right h1 {
+    font-size: 15px;
+    font-weight: bold;
+    color: #333333;
+  }
+}
+@media (max-width: 406px) {
+  .look-inside-right a {
+    display: inline-block;
+    text-decoration: none;
+    color: #000;
+    border: 3px solid #000;
+    padding: 13px 18px;
+    font-size: 10px;
+    font-weight: bold;
+    margin-top: 1.5rem;
+  }
+}
