@@ -134,8 +134,7 @@ img {
   line-height: 1.48em;
   margin-top: 20px;
 }
-.discover-left img {
-}
+
 .discover-right {
   width: 48%;
 }
@@ -145,8 +144,7 @@ img {
   color: #333;
   margin-bottom: 40px;
 }
-.discover-right img {
-}
+
 .discover-left-border {
   border: 2px solid red;
   width: 35%;
@@ -203,10 +201,7 @@ img {
   font-weight: 500;
 }
 /* ============================== Video Tour ============================= */
-.video-tour {
-}
-.video-tour-content {
-}
+
 .video-tour-content h1 {
   font-size: 50px;
   font-weight: 500;
@@ -250,7 +245,7 @@ img {
   width: 50%;
   position: relative;
   z-index: 1;
-  padding: 40px;
+  padding: 46px;
   box-sizing: border-box;
 }
 .look-inside-right::after {
@@ -325,8 +320,7 @@ img {
   list-style: none;
   padding-left: 0;
 }
-.more-place-inner-content ul li {
-}
+
 .more-place-inner-content ul li a {
   display: inline-block;
   text-decoration: none;
@@ -401,14 +395,12 @@ img {
   margin: auto;
   margin-top: -2%;
 }
-.our-guides-team {
-}
+
 .our-guides-inner-team {
   width: 31%;
   margin-right: 2%;
 }
-.our-guides-inner-team-caption {
-}
+
 .our-guides-inner-team-caption h5 {
   font-size: 22px;
   margin-bottom: 10px;
@@ -421,8 +413,7 @@ img {
 .waiting {
   padding: 10px 0;
 }
-.waiting-title {
-}
+
 .waiting-title h1 {
   font-size: 50px;
   font-weight: bold;
